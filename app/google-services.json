@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "286001198719",
+    "firebase_url": "https://prueba-e4106-default-rtdb.firebaseio.com",
+    "project_id": "prueba-e4106",
+    "storage_bucket": "prueba-e4106.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286001198719:android:224c4472db1d7db893314a",
+        "android_client_info": {
+          "package_name": "duran.josue.esptemp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn4JKkxnomARfjWBwBUCDG6tUEEdaNXmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

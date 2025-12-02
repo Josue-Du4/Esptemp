@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">192.168.1.101
+        </domain> <!-- ¡IMPORTANTE! Usa la IP real de tu ESP32 aquí -->
+    </domain-config>
+    <!-- Si tu ESP32 pudiera tener diferentes IPs en tu red local,
+         podrías necesitar añadir más entradas <domain> o ser más permisivo,
+         pero especificar la IP es lo más seguro si es fija. -->
+</network-security-config>
